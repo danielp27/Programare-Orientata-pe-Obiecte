@@ -1,0 +1,3 @@
+/home/danielp/Programare-Orientată-pe-Obiecte/Proiect POO/cmake-build-debug/CMakeFiles/Proiect_POO.dir
+/home/danielp/Programare-Orientată-pe-Obiecte/Proiect POO/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/danielp/Programare-Orientată-pe-Obiecte/Proiect POO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
